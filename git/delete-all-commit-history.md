@@ -18,4 +18,4 @@
 6. Update repository by force
 >`git push -f origin master`
 
-
+Ref: [stackoverflow](http://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
