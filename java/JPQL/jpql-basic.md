@@ -19,7 +19,7 @@ JPQL은 데이터베이스 테이블을 전혀 알지 못한다.
     
     
 JPA는 JPQL을 분석해서 다음과 같은 적절한 SQL을 만들어서 DB에서 데이터를 조회한다.
-> SELECT M.ID, M.NAME, M.AGE FROM MEMBER M
+> SELECT M.ID, M.NAME, M.AGE FROM MEMBER M      
                 
                 
                 
